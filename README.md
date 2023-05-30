@@ -7,7 +7,7 @@ Webpack template using Esbuild, PostCSS and Sass.
 Clone this repo and npm install.
 
 ```bash
-npm i
+npm install
 ```
 
 ## Usage
